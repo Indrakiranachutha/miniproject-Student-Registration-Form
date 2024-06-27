@@ -1,6 +1,14 @@
 # miniproject-Student-Registration-Form
 This is my mini project which was done in college
-
+# purpose of this project
+This project is for the  Student Registration form 
+ Functionality in this project is :
+>Dark and light theme
+>Edit details
+>Update details
+>Delete details
+# if you want you can edit tthe src code and usd it in your project
+feel free to use the codes
 # How to do project
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
